@@ -1,0 +1,11 @@
+programa Calculo {
+  x = 10;
+  y = 5;
+  procesar {
+    imprimir("Resultado: ");
+    imprimir(x + y);
+  }
+  manejarError(error) {
+    imprimir("Hubo un error al procesar.");
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "analizador",
+  "version": "1.0.0",
+  "description": "Analizador léxico y sintáctico con ANTLR4 en Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "antlr4": "^4.13.0"
+  }
+}

@@ -1,0 +1,9 @@
+programa Test {
+  x = 5
+  Procesar {
+    imprimir("Hola mundo");
+  }
+  manejarError(e) {
+    imprimir("Error de sintaxis");
+  }
+}

@@ -1,0 +1,13 @@
+programa Operaciones {
+  a = 15;
+  b = 3;
+  resultado = a / b + 2;
+
+  procesar {
+    imprimir("El resultado es: " + resultado);
+  }
+
+  manejarError(err) {
+    imprimir("Ocurrió un error al calcular el resultado.");
+  }
+}
