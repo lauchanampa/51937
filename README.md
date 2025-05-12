@@ -25,6 +25,7 @@ git clone https://github.com/lauchanampa/51937.git
 Una vez clonado el repositorio, abre el proyecto en Visual Studio Code con:
 
 cd 51937
+
 code .
 
 #### 3. Archivos Importantes
