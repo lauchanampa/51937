@@ -34,10 +34,10 @@ estructura.g4: El archivo que contiene la gramática ANTLR para el analizador.
 entrada.txt: El archivo de entrada donde podrás colocar los códigos de prueba. Hay ejemplos de entradas correctas e incorrectas que puedes utilizar.
 
 #### 4. Probar el Proyecto
-Opción 1: Usando F5
-Presiona F5 para ejecutar el código en VS Code. Esto generará el árbol de derivación.
+Opción 1: Usando F5: 
+Presiona F5 estando en "estructura.g4" para ejecutar el código en VS Code. Esto generará el árbol de derivación.
 
-Opción 2: Usando la Consola
+Opción 2: Usando la Consola: 
 Si prefieres usar la consola, abre la terminal situandote en el archivo y ejecuta el siguiente comando:
 
 node index.js
