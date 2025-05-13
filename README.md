@@ -31,7 +31,7 @@ code .
 #### 3. Archivos Importantes
 estructura.g4: El archivo que contiene la gramática ANTLR para el analizador.
 
-entrada.txt: El archivo de entrada donde podrás colocar los códigos de prueba. Hay ejemplos de entradas correctas e incorrectas que puedes utilizar.
+entrada.txt: El archivo de entrada donde podrás colocar los códigos de prueba. Hay ejemplos de entradas correctas e incorrectas que puedes utilizar, lo que tienes que hacer para poder utilizar estos códigos, es simplemente entrar a esos archivos .txt, copiar su contenido y pegarlo en "entrada.txt", guardar los cambios y probarlo.
 
 #### 4. Probar el Proyecto
 Opción 1: Usando F5: 
