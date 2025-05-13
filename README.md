@@ -2,7 +2,7 @@
 
 - **Nombre**: Lautaro Chanampa André Olivares  
 - **Legajo**: 51937  
-- **Tema**: 25914_5
+- **Tema**: 25914_2
 
 
 ## Analizador Sintáctico con ANTLR y Node.js
