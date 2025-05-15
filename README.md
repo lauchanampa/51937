@@ -41,3 +41,5 @@ Opción 2: Usando la Consola:
 Si prefieres usar la consola, abre la terminal situandote en el archivo y ejecuta el siguiente comando:
 
 node index.js
+
+Esto generará el arbol de derivación, la tabla de tokens y lexemas, hará un análisis léxico y sintáctico, como también mostrara el resultado del programa de 'entrada.txt'.
