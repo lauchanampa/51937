@@ -1,4 +1,4 @@
-// Generated from c:/Users/chana/OneDrive/Documentos/Analizador/estructura.g4 by ANTLR 4.13.2
+// Generated from c:/Users/chana/OneDrive/Documentos/GitHub/51937/estructura.g4 by ANTLR 4.13.2
 // jshint ignore: start
 import antlr4 from 'antlr4';
 

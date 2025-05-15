@@ -41,5 +41,3 @@ Opción 2: Usando la Consola:
 Si prefieres usar la consola, abre la terminal situandote en el archivo y ejecuta el siguiente comando:
 
 node index.js
-
-Esto generará tanto el árbol de derivación como el resultado de la ejecución según el contenido de entrada.txt.
