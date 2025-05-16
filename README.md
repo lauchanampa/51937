@@ -43,3 +43,11 @@ Si prefieres usar la consola, abre la terminal situandote en el archivo y ejecut
 node index.js
 
 Esto generará el arbol de derivación, la tabla de tokens y lexemas, hará un análisis léxico y sintáctico, como también mostrara el resultado del programa de 'entrada.txt'.
+##### Aclaración
+Además para poder ver la tradución de el código fuente al lenguaje JavaScript, deberas necesariamente ejecutar el siguiente comando:
+
+node index2.js
+
+Es decir, cree un "index2.js" para poder ejecutar por separado la traducción, sino, me generaba problemas el "index.js".
+
+Conclusión, con "node index.js" generarás el arbol de derivación, la tabla de tokens y lexemas, hará un análisis léxico y sintáctico, como también mostrara el resultado del programa de 'entrada.txt' y luego como "index2.js" generarás la tradución de el código fuente al lenguaje JavaScript
