@@ -50,4 +50,4 @@ node index2.js
 
 Es decir, creé un "index2.js" para poder ejecutar por separado la traducción, sino, me generaba problemas el "index.js".
 
-Conclusión, con "node index.js" generarás el arbol de derivación, la tabla de tokens y lexemas, hará un análisis léxico y sintáctico, como también mostrara el resultado del programa de 'entrada.txt' y luego como "node index2.js" generarás la tradución de el código fuente al lenguaje JavaScript
+Conclusión, con "node index.js" generarás el arbol de derivación, la tabla de tokens y lexemas, hará un análisis léxico y sintáctico, como también mostrara el resultado del programa de 'entrada.txt' y luego con "node index2.js" generarás la tradución de el código fuente al lenguaje JavaScript
