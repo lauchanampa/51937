@@ -9,7 +9,7 @@
 
 ### Descripción
 
-Este proyecto es un **analizador sintáctico** para un lenguaje de programación simple, creado con **ANTLR** y **Node.js**. El analizador procesa un archivo de entrada con instrucciones específicas y genera un **árbol de derivación** junto con los resultados de ejecución.
+Este proyecto es un **analizador sintáctico** para un lenguaje de programación simple, creado con **ANTLR** y **Node.js**. Lo que hace el código de "estructura.g4" es definir un lenguaje sencillo y estructurado orientado a la programación básica con soporte para variables, expresiones aritméticas, impresión en pantalla y manejo de errores mediante bloques try-catch personalizados.
 
 ### Aclaraciones Importantes
 
